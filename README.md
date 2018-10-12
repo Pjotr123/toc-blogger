@@ -1,5 +1,5 @@
 # toc-blogger
-Clickable table of contents for a Blogger web page.
+Clickable Table of Contents for a Blogger web page.
 
 In the Edit mode, simply switch your page to HTML view, and copy/paste this code at the spot where you want to see a table of contents.
 
