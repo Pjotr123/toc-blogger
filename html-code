@@ -5,7 +5,7 @@
 <li><a href="https://www.your-very-own-website.net/p/nice-story.html#ID1">1. First item</a></li>
 <li><a href="https://www.your-very-own-website.net/p/nice-story.html#ID2">2. Second item</a></li>
 <li><ul><li><a href="https://www.your-very-own-website.net/p/nice-story.html#ID2.1">2.1. Sub-item for the second item</a></li></ul></li>
-<li><ul><li><ul><li><a href="https://www.your-very-own-website.net/p/nice-story-one.html#ID2.1.1">2.1.1. Sub-sub-item for the second item</a></li></ul></li></ul></li>
+<li><ul><li><ul><li><a href="https://www.your-very-own-website.net/p/nice-story.html#ID2.1.1">2.1.1. Sub-sub-item for the second item</a></li></ul></li></ul></li>
 </ul>
 <br />
 <h2 id="ID1">First item</h2>
